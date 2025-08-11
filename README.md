@@ -1,11 +1,11 @@
-🛒 store-ts
+## 🛒 store-ts
 A feature-rich, modern e-commerce web application built using the latest web technologies:
 
 Next.js (App Router)
 
 TypeScript
 
-Supabase (PostgreSQL & Auth)
+## Supabase (PostgreSQL & Auth)
 
 Prisma (ORM)
 
@@ -17,7 +17,7 @@ React Query (Data fetching & caching)
 
 ShadCN UI (Components & design system)
 
-🚀 Features
+## 🚀 Features
 Secure user authentication (via Clerk)
 
 Admin & customer dashboards
@@ -43,7 +43,7 @@ Stripe	Payment processing
 React Query	Data fetching & caching
 ShadCN UI	Accessible UI components
 
-🛠️ Setup
+## 🛠️ Setup
 bash
 Copy
 Edit
